@@ -13,6 +13,6 @@ public class Fibonacci {
     }
 
     public static void main(String[] args) {
-        System.out.println(fun(26));
+        System.out.println(fun(20));
     }
 }
